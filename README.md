@@ -8,4 +8,4 @@ This project is a starting point for my learning on new and trending state manag
 
 A few resources to get you started if this is your first Flutter project:
 
-- [What is Cubit and Bloc](https://bloclibrary.dev/#/)
+- [Flutter Bloc Introduction and Details](https://bloclibrary.dev/#/)
